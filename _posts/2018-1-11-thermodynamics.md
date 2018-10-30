@@ -478,8 +478,8 @@ The article is a review note of the 1st year physics study in thermodynamics.
     A real engine's efficiency is **no greater than** this \\(\varepsilon\\).
 
   - Carnot Refrigerator
-
-    Similar to an engine. But for a refrigerator the value we are concerned about is *coefficient of performance* \\(K=\frac{|Q_L|}{|W|}=\frac{|Q_L|}{|Q_H|-|Q_L|}\\)
+    
+    Similar to an engine. But for a refrigerator the value we are concerned about is *coefficient of performance* \\(K=\frac{\vert Q_L\vert}{\vert W\vert}=\frac{\vert Q_L\vert}{\vert Q_H\vert -\vert Q_L\vert}\\)
 
     If the refrigerator is a carnot refrigerator,
 

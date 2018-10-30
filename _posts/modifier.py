@@ -54,7 +54,7 @@ with open(inPath, 'r') as fpIn:
         #print line,
         line = modify(line)
         #print line,
-        print line
+        print(line)
         fp.write(line)
 
 fp.close()
